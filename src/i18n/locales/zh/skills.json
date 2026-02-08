@@ -1,0 +1,17 @@
+{
+  "title": "技术技能",
+  "subtitle": "涵盖后端、云基础设施和现代开发实践的综合技术栈",
+  "categories": {
+    "backend": "后端框架",
+    "cloud": "云计算与基础设施",
+    "database": "数据库与 ORM",
+    "system": "系统设计与架构",
+    "devops": "DevOps 与监控",
+    "fullstack": "全栈与平台"
+  },
+  "levels": {
+    "expert": "专家",
+    "advanced": "高级",
+    "intermediate": "中级"
+  }
+}

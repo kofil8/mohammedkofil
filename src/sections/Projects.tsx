@@ -37,12 +37,12 @@ export function Projects() {
       liveUrl: "https://uptime-monitor-demo.vercel.app",
     },
     {
-      title: t("items.restaurant.title"),
-      description: t("items.restaurant.description"),
-      image: "/project-restaurant.jpg",
-      techStack: ["Django", "DRF", "PostgreSQL", "Stripe", "OpenAI"],
-      githubUrl: "https://github.com/kofil/restaurant-app",
-      liveUrl: "https://restaurant-app-demo.vercel.app",
+      title: t("items.roster.title"),
+      description: t("items.roster.description"),
+      image: "/project-roster.png",
+      techStack: ["React", "Node.js", "PostgreSQL", "TypeScript", "Tailwind"],
+      githubUrl: "https://github.com/kofil/roster-pro-system",
+      liveUrl: "https://roster-pro-system.vercel.app/",
     },
   ];
 

@@ -1,0 +1,34 @@
+{
+  "badge": "接受自由职业项目",
+  "greeting": "你好，我是",
+  "name": "Mohammad Kofil",
+  "typedText": "软件工程师 | 后端专家 | DevSync BD 创始人",
+  "description": "经验丰富的软件工程师，专注于后端技术。我设计可扩展系统，构建 SaaS/BaaS 平台，并使用 Node.js、Python 和现代基础设施部署云原生解决方案。",
+  "buttons": {
+    "viewProjects": "查看项目",
+    "contactMe": "联系我"
+  },
+  "stats": {
+    "experience": {
+      "value": "3+",
+      "label": "年工作经验"
+    },
+    "projects": {
+      "value": "100+",
+      "label": "完成项目"
+    },
+    "clients": {
+      "value": "150+",
+      "label": "满意客户"
+    }
+  },
+  "floatingBadges": {
+    "systemOnline": "系统在线",
+    "typescript": "TypeScript"
+  },
+  "scrollIndicator": "向下滚动探索",
+  "aria": {
+    "viewProjects": "查看我的作品集项目",
+    "contactMe": "联系 Mohammad Kofil"
+  }
+}

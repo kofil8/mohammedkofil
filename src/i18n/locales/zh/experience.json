@@ -1,0 +1,30 @@
+{
+  "title": "我的经历",
+  "subtitle": "从编写我的第一个 API 到大规模设计生产系统",
+  "items": {
+    "devSync": {
+      "title": "创始人兼首席软件工程师",
+      "company": "DevSync BD",
+      "period": "2024 - 至今",
+      "description": "领导 SaaS 和 BaaS 平台的后端架构。使用 Node.js、FastAPI 和 AWS 构建可扩展系统。管理云基础设施、CI/CD 管道和微服务部署。"
+    },
+    "techSolutions": {
+      "title": "高级软件工程师（后端）",
+      "company": "Tech Solutions Ltd.",
+      "period": "2024 - 2024",
+      "description": "使用 Node.js 和 Python 设计微服务架构。实施 Redis 缓存、PostgreSQL 优化和 Docker 容器化。将 API 响应时间缩短了 60%。"
+    },
+    "digitalInnovations": {
+      "title": "初级后端工程师",
+      "company": "BD Calling IT Ltd.",
+      "period": "2023 - 2024",
+      "description": "使用 Express 和 Django 构建 RESTful API。实施 JWT 身份验证、AWS 部署和数据库设计。使用 WebSocket 和 Redis 开发实时功能。"
+    },
+    "education": {
+      "title": "计算机科学学士",
+      "company": "Daffodil International University",
+      "period": "2020 - 2023",
+      "description": "专注于软件工程、数据库系统和分布式计算。荣誉毕业。"
+    }
+  }
+}

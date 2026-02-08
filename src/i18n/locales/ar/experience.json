@@ -5,25 +5,25 @@
     "devSync": {
       "title": "مؤسس ومهندس برمجيات رئيسي",
       "company": "DevSync BD",
-      "period": "2023 - الحالي",
+      "period": "2024 - الحالي",
       "description": "قيادة عمارة الواجهة الخلفية لمنصات SaaS و BaaS. بناء أنظمة قابلة للتوسع مع Node.js و FastAPI و AWS. إدارة البنية التحتية السحابية وخطوط أنابيب CI/CD ونشر الخدمات الدقيقة."
     },
     "techSolutions": {
       "title": "مهندس برمجيات أول (واجهة خلفية)",
       "company": "Tech Solutions Ltd.",
-      "period": "2022 - 2023",
+      "period": "2024 - 2024",
       "description": "تصميم خدمات دقيقة باستخدام Node.js و Python. تنفيذ التخزين المؤقت مع Redis وتحسين PostgreSQL والحاوية مع Docker. تقليل أوقات استجابة واجهة برمجية بنسبة 60%."
     },
     "digitalInnovations": {
-      "title": "مهندس برمجيات",
-      "company": "Digital Innovations Inc.",
-      "period": "2021 - 2022",
+      "title": "مهندس برمجيات واجهة خلفية مبتدئ",
+      "company": "BD Calling IT Ltd.",
+      "period": "2023 - 2024",
       "description": "بناء واجهات برمجية RESTful مع Express و Django. تنفيذ مصادقة JWT والنشر على AWS وتصميم قاعدة البيانات. تطوير ميزات الوقت الفعلي باستخدام WebSockets و Redis."
     },
     "education": {
       "title": "بكالوريوس في علوم الحاسوب",
-      "company": "جامعة التكنولوجيا",
-      "period": "2017 - 2021",
+      "company": "Daffodil International University",
+      "period": "2020 - 2023",
       "description": "التركيز على هندسة البرمجيات وأنظمة قواعد البيانات والحوسبة الموزعة. تخرج بمرتبة الشرف."
     }
   }

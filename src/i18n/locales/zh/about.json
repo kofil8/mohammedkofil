@@ -1,0 +1,33 @@
+{
+  "title": "关于我",
+  "subtitle": "热衷于构建驱动数字世界的隐形基础设施",
+  "heading": "软件工程师 | 后端专家",
+  "paragraphs": {
+    "intro": "我是一名软件工程师，在后端技术和系统架构方面拥有深厚的专业知识。凭借 3 年以上构建生产级应用程序的实践经验，我专注于 Node.js、Python (FastAPI/Django) 和 AWS 上的云原生解决方案。",
+    "experience": "从设计 RESTful API 和微服务到使用 Docker 部署容器化应用程序，我通过简洁、可扩展的代码将想法变为现实。我构建过处理数百万请求的 SaaS 平台、BaaS 解决方案和企业系统。",
+    "company": "作为 {{company}} 的创始人，我领导一个团队，采用后端优先的方法提供全栈解决方案。无论是设计数据库、使用 Redis 实施缓存策略，还是设置 CI/CD 管道——我确保每个系统都为规模化而构建。"
+  },
+  "companyName": "DevSync BD",
+  "interests": {
+    "backend": {
+      "title": "后端工程",
+      "description": "Node.js, FastAPI, Django, Express 架构"
+    },
+    "cloud": {
+      "title": "云计算与 DevOps",
+      "description": "AWS, Docker, CI/CD, 基础设施即代码"
+    },
+    "saas": {
+      "title": "SaaS 与 BaaS",
+      "description": "多租户平台和后端服务"
+    },
+    "design": {
+      "title": "系统设计",
+      "description": "可扩展数据库、缓存、微服务"
+    }
+  },
+  "stats": {
+    "experience": "年经验"
+  },
+  "imageAlt": "Mohammad Kofil - 后端工程师和 DevSync BD 创始人"
+}

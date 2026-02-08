@@ -1,0 +1,69 @@
+{
+  "title": "联系我们",
+  "subtitle": "有项目想法吗？让我们讨论如何合作",
+  "heading": "让我们一起构建{{highlight}}的东西",
+  "headingHighlight": "令人惊叹",
+  "description": "无论您有问题、项目想法，还是只是想打个招呼，我总是乐意讨论新项目、创意想法或成为您愿景一部分的机会。",
+  "info": {
+    "email": {
+      "label": "邮箱",
+      "value": "mohammedkofil8@gmail.com"
+    },
+    "phone": {
+      "label": "电话",
+      "value": "+880 1729-795968"
+    },
+    "location": {
+      "label": "地址",
+      "value": "孟加拉国达卡"
+    }
+  },
+  "social": {
+    "followMe": "关注我",
+    "platforms": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "form": {
+    "heading": "发送消息",
+    "labels": {
+      "name": "姓名",
+      "email": "邮箱",
+      "message": "消息"
+    },
+    "placeholders": {
+      "name": "您的姓名",
+      "email": "your.email@example.com",
+      "message": "告诉我关于您的项目..."
+    },
+    "buttons": {
+      "send": "发送消息",
+      "sending": "发送中...",
+      "sent": "消息已发送！",
+      "tryAgain": "重试"
+    },
+    "alternative": {
+      "heading": "或通过以下方式联系",
+      "whatsapp": "WhatsApp",
+      "gmail": "Gmail"
+    },
+    "toast": {
+      "fillFields": "请填写所有字段",
+      "invalidEmail": "请输入有效的电子邮件地址",
+      "success": "消息发送成功！我会尽快回复您。",
+      "error": "发送消息失败。请重试或直接联系我。",
+      "nameAndMessageRequired": "请先输入您的姓名和消息",
+      "openingWhatsApp": "正在打开 WhatsApp...",
+      "openingEmail": "正在打开电子邮件客户端..."
+    },
+    "status": {
+      "idle": "",
+      "submitting": "正在提交表单...",
+      "success": "表单提交成功！",
+      "error": "提交表单时出错"
+    }
+  }
+}

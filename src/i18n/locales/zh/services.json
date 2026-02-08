@@ -1,0 +1,47 @@
+{
+  "badge": "DevSync BD",
+  "title": "我们提供的服务",
+  "subtitle": "与我们的专家团队一起将您的想法转化为强大的数字解决方案",
+  "items": {
+    "saas": {
+      "title": "SaaS 开发",
+      "description": "端到端的 SaaS 平台开发，具有多租户、订阅管理和可扩展架构。",
+      "features": ["多租户架构", "订阅计费", "用户管理", "分析仪表板"]
+    },
+    "backend": {
+      "title": "后端架构",
+      "description": "设计和实现能够以最佳性能处理数百万请求的强大后端系统。",
+      "features": ["微服务", "事件驱动设计", "负载均衡", "缓存策略"]
+    },
+    "api": {
+      "title": "API 开发",
+      "description": "为性能、安全性和开发者体验而设计的 RESTful 和 GraphQL API。",
+      "features": ["REST 与 GraphQL", "API 文档", "速率限制", "版本控制"]
+    },
+    "cloud": {
+      "title": "云部署",
+      "description": "在 AWS、Azure 或 Google Cloud Platform 上无缝设置和管理云基础设施。",
+      "features": [
+        "AWS/Azure/GCP",
+        "Docker 与 Kubernetes",
+        "CI/CD 管道",
+        "自动扩展"
+      ]
+    },
+    "business": {
+      "title": "定制商业软件",
+      "description": "量身定制的软件解决方案，旨在简化您的业务运营并提高生产力。",
+      "features": ["ERP 系统", "CRM 解决方案", "工作流自动化", "报告工具"]
+    },
+    "mvp": {
+      "title": "MVP 开发",
+      "description": "快速推出具有正确功能集、简洁架构和可扩展空间的聚焦 MVP。",
+      "features": ["范围定义", "快速原型", "仅核心功能", "迭代路线图"]
+    }
+  },
+  "cta": {
+    "heading": "准备开始您的项目？",
+    "description": "让我们讨论如何帮助您构建非凡的东西",
+    "button": "与 DevSync BD 合作"
+  }
+}

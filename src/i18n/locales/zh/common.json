@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "skills": "技能",
+    "projects": "项目",
+    "services": "服务",
+    "consultation": "咨询",
+    "experience": "经历",
+    "contact": "联系"
+  },
+  "theme": {
+    "toggle": "切换主题",
+    "light": "浅色",
+    "dark": "深色",
+    "system": "系统"
+  },
+  "language": {
+    "toggle": "切换语言",
+    "current": "中文"
+  },
+  "buttons": {
+    "viewMore": "查看更多",
+    "learnMore": "了解更多",
+    "getStarted": "开始使用",
+    "viewProjects": "查看项目",
+    "contactMe": "联系我"
+  },
+  "footer": {
+    "brand": "Mohammad Kofil",
+    "subtitle": "软件工程师 | 后端专家",
+    "description": "专注于后端技术的软件工程师。使用 Node.js、Python 和 AWS 构建可扩展系统、SaaS/BaaS 平台和云原生解决方案。",
+    "quickLinks": "快速链接",
+    "getInTouch": "联系方式",
+    "email": "邮箱",
+    "location": "地址",
+    "company": "公司",
+    "locationValue": "孟加拉国达卡",
+    "companyValue": "DevSync BD",
+    "copyright": "© {{year}} Mohammad Kofil. 保留所有权利。",
+    "madeWith": "开发者"
+  },
+  "aria": {
+    "openMenu": "打开导航菜单",
+    "closeMenu": "关闭导航菜单"
+  }
+}

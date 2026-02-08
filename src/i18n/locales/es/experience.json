@@ -5,25 +5,25 @@
     "devSync": {
       "title": "Fundador y Lead Software Engineer",
       "company": "DevSync BD",
-      "period": "2023 - Present",
+      "period": "2024 - Present",
       "description": "Lidero la arquitectura backend para plataformas SaaS y BaaS. Construyendo sistemas escalables con Node.js, FastAPI y AWS. Gestion de infraestructura cloud, pipelines CI/CD y despliegues de microservicios."
     },
     "techSolutions": {
       "title": "Senior Software Engineer (Backend)",
       "company": "Tech Solutions Ltd.",
-      "period": "2022 - 2023",
+      "period": "2024 - 2024",
       "description": "Arquitecte microservicios con Node.js y Python. Implemente cache Redis, optimizacion de PostgreSQL y contenerizacion Docker. Reduje tiempos de respuesta de API en un 60%."
     },
     "digitalInnovations": {
-      "title": "Software Engineer",
-      "company": "Digital Innovations Inc.",
-      "period": "2021 - 2022",
+      "title": "Junior Backend Engineer",
+      "company": "BD Calling IT Ltd.",
+      "period": "2023 - 2024",
       "description": "Construi APIs RESTful con Express y Django. Implemente autenticacion JWT, despliegues en AWS y diseno de bases de datos. Desarrolle funciones en tiempo real con WebSockets y Redis."
     },
     "education": {
       "title": "BSc en Computer Science",
-      "company": "University of Technology",
-      "period": "2017 - 2021",
+      "company": "Daffodil International University",
+      "period": "2020 - 2023",
       "description": "Enfoque en ingenieria de software, sistemas de bases de datos y computacion distribuida. Graduado con honores."
     }
   }

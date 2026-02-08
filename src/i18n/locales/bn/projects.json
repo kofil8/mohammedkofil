@@ -14,9 +14,9 @@
       "title": "Uptime Monitoring Service",
       "description": "Node.js মাইক্রোসার্ভিস দিয়ে তৈরি বিতরণকৃত মনিটরিং সিস্টেম। মেট্রিক্সের জন্য MongoDB, জব কিউর জন্য Redis এবং রিয়েল-টাইম সতর্কতার জন্য WebSockets ব্যবহার করে। AWS ECS এ স্থাপিত।"
     },
-    "restaurant": {
-      "title": "AI-Powered Restaurant BaaS",
-      "description": "রেস্তোরাঁ ব্যবস্থাপনার জন্য Backend-as-a-Service প্ল্যাটফর্ম। AI চ্যাটবট ইন্টিগ্রেশন, Stripe পেমেন্ট এবং মাল্টি-টেনান্ট আর্কিটেকচার সহ Django REST API।"
+    "roster": {
+      "title": "Roster Pro System",
+      "description": "পেশাদার রোস্টার এবং সময়সূচী ব্যবস্থাপনা সিস্টেম। কর্মচারী সময়সূচী, শিফট ব্যবস্থাপনা এবং রিয়েল-টাইম বিজ্ঞপ্তি সহ সম্পূর্ণ-স্ট্যাক অ্যাপ্লিকেশন React এবং Node.js দিয়ে তৈরি।"
     }
   },
   "buttons": {

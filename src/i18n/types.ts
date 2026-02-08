@@ -1,4 +1,4 @@
-export type Language = "en" | "bn" | "es" | "ar";
+export type Language = "en" | "bn" | "es" | "ar" | "zh";
 
 export interface LanguageContextType {
   language: Language;
@@ -10,4 +10,5 @@ export const LANGUAGES = {
   bn: { code: "bn", name: "Bengali", nativeName: "বাংলা", flag: "🇧🇩" },
   es: { code: "es", name: "Spanish", nativeName: "Español", flag: "🇪🇸" },
   ar: { code: "ar", name: "Arabic", nativeName: "العربية", flag: "🇸🇦" },
+  zh: { code: "zh", name: "Chinese", nativeName: "中文", flag: "🇨🇳" },
 } as const;

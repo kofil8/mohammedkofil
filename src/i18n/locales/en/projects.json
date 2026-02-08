@@ -14,9 +14,9 @@
       "title": "Uptime Monitoring Service",
       "description": "Distributed monitoring system built with Node.js microservices. Uses MongoDB for metrics, Redis for job queues, and WebSockets for real-time alerts. Deployed on AWS ECS."
     },
-    "restaurant": {
-      "title": "AI-Powered Restaurant BaaS",
-      "description": "Backend-as-a-Service platform for restaurant management. Django REST API with AI chatbot integration, Stripe payments, and multi-tenant architecture."
+    "roster": {
+      "title": "Roster Pro System",
+      "description": "Professional roster and scheduling management system. Full-stack application with employee scheduling, shift management, and real-time notifications built with React and Node.js."
     }
   },
   "buttons": {

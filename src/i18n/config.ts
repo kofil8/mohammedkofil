@@ -50,6 +50,18 @@ import projectsAR from "./locales/ar/projects.json";
 import servicesAR from "./locales/ar/services.json";
 import skillsAR from "./locales/ar/skills.json";
 
+// Import Chinese translations
+import aboutZH from "./locales/zh/about.json";
+import commonZH from "./locales/zh/common.json";
+import consultationZH from "./locales/zh/consultation.json";
+import contactZH from "./locales/zh/contact.json";
+import experienceZH from "./locales/zh/experience.json";
+import heroZH from "./locales/zh/hero.json";
+import metaZH from "./locales/zh/meta.json";
+import projectsZH from "./locales/zh/projects.json";
+import servicesZH from "./locales/zh/services.json";
+import skillsZH from "./locales/zh/skills.json";
+
 const resources = {
   en: {
     common: commonEN,
@@ -98,6 +110,18 @@ const resources = {
     experience: experienceAR,
     contact: contactAR,
     meta: metaAR,
+  },
+  zh: {
+    common: commonZH,
+    hero: heroZH,
+    about: aboutZH,
+    skills: skillsZH,
+    projects: projectsZH,
+    services: servicesZH,
+    consultation: consultationZH,
+    experience: experienceZH,
+    contact: contactZH,
+    meta: metaZH,
   },
 } as const;
 

@@ -1,0 +1,30 @@
+{
+  "title": "精选项目",
+  "subtitle": "展示 API、微服务和云基础设施专业技能的后端重点项目",
+  "items": {
+    "cloudStorage": {
+      "title": "云存储平台",
+      "description": "功能齐全的云存储，支持分块上传、实时同步和共享。使用 Node.js/Express 构建后端，PostgreSQL 用于元数据，AWS S3 用于文件存储。Docker 化部署。"
+    },
+    "taskManager": {
+      "title": "企业任务管理器 API",
+      "description": "使用 FastAPI 构建的高性能任务管理后端。功能包括基于角色的访问控制 (RBAC)、WebSocket 通知、Redis 缓存和使用 Celery 的异步任务处理。"
+    },
+    "uptime": {
+      "title": "可用性监控服务",
+      "description": "使用 Node.js 微服务构建的分布式监控系统。使用 MongoDB 存储指标，Redis 用于作业队列，WebSocket 用于实时警报。部署在 AWS ECS 上。"
+    },
+    "roster": {
+      "title": "Roster Pro 系统",
+      "description": "专业的花名册和排班管理系统。全栈应用程序，具有员工排班、班次管理和使用 React 和 Node.js 构建的实时通知功能。"
+    }
+  },
+  "buttons": {
+    "code": "代码",
+    "liveDemo": "在线演示",
+    "viewMoreGithub": "在 GitHub 上查看更多"
+  },
+  "aria": {
+    "viewGithub": "在 GitHub 上查看更多项目"
+  }
+}

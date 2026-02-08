@@ -1,0 +1,30 @@
+{
+  "title": "提供咨询",
+  "subtitle": "获得专注的一对一策略会议，明确您的后端架构和交付计划。",
+  "description": "我从头开始设计和开发安全、可扩展的 SaaS、金融科技和健康科技平台——专为速度、可靠性和企业级安全性而设计。",
+  "perks": {
+    "review": {
+      "title": "深度项目审查",
+      "description": "我们明确目标、约束和构建可靠后端的最快路径。"
+    },
+    "architecture": {
+      "title": "架构指导",
+      "description": "关于 API、数据库和可扩展性权衡的实用建议。"
+    },
+    "action": {
+      "title": "行动计划",
+      "description": "您将获得可以执行的路线图、时间表和后续步骤。"
+    }
+  },
+  "buttons": {
+    "bookConsultation": "预约咨询",
+    "hireUpwork": "在 Upwork 上雇用我",
+    "exploreServices": "探索服务"
+  },
+  "imageAlt": "后端架构和项目规划的专业咨询会议",
+  "aria": {
+    "bookConsultation": "预约咨询会议",
+    "hireUpwork": "在 Upwork 上雇用 Mohammad Kofil",
+    "exploreServices": "探索可用服务"
+  }
+}
