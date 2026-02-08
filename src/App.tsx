@@ -11,20 +11,20 @@ function App() {
       const currentPath = window.location.pathname;
 
       // If already on a language route, don't redirect
-      if (/^\/(en|es|bn|ar)\//i.test(currentPath)) {
+      if (/^\/(en|es|bn|ar|zh)\//i.test(currentPath)) {
         return;
       }
 
       // Check localStorage for preferred language
       const savedLang = localStorage.getItem("i18nextLng");
-      if (savedLang && /^(en|es|bn|ar)$/.test(savedLang)) {
+      if (savedLang && /^(en|es|bn|ar|zh)$/.test(savedLang)) {
         navigate(`/${savedLang}/`, { replace: true });
         return;
       }
 
       // Detect browser language
       const browserLang = navigator.language.split("-")[0];
-      const supportedLangs = ["en", "es", "bn", "ar"];
+      const supportedLangs = ["en", "es", "bn", "ar", "zh"];
       const detectedLang = supportedLangs.includes(browserLang)
         ? browserLang
         : "en";

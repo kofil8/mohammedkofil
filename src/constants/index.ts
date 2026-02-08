@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 
 // Supported languages
-export const VALID_LANGUAGES: Language[] = ["en", "es", "bn", "ar"];
+export const VALID_LANGUAGES: Language[] = ["en", "es", "bn", "ar", "zh"];
 
 // Navigation sections configuration
 export interface NavigationSection {
@@ -93,4 +93,5 @@ export const LOCALE_MAPPING: Record<Language, string> = {
   es: "es_ES",
   bn: "bn_BD",
   ar: "ar_AE",
+  zh: "zh_CN",
 } as const;

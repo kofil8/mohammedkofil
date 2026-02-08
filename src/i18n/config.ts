@@ -131,6 +131,7 @@ i18n
   .init({
     resources,
     fallbackLng: "en",
+    supportedLngs: ["en", "bn", "es", "ar", "zh"],
     defaultNS: "common",
     ns: [
       "common",
