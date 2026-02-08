@@ -1,0 +1,30 @@
+{
+  "title": "Ofrecer consultoria",
+  "subtitle": "Obtén una sesion estrategica 1:1 para aclarar tu arquitectura backend y plan de entrega.",
+  "description": "Arquitecto y desarrollo plataformas SaaS, FinTech y HealthTech seguras y escalables desde cero, disenadas para velocidad, confiabilidad y seguridad de nivel empresarial.",
+  "perks": {
+    "review": {
+      "title": "Revision profunda del proyecto",
+      "description": "Aclaramos objetivos, restricciones y el camino mas rapido hacia un backend confiable."
+    },
+    "architecture": {
+      "title": "Guia de arquitectura",
+      "description": "Recomendaciones practicas sobre APIs, bases de datos y tradeoffs de escalabilidad."
+    },
+    "action": {
+      "title": "Plan de accion",
+      "description": "Te llevas una hoja de ruta, cronograma y siguientes pasos ejecutables."
+    }
+  },
+  "buttons": {
+    "bookConsultation": "Reservar consultoria",
+    "hireUpwork": "Contratame en Upwork",
+    "exploreServices": "Explorar servicios"
+  },
+  "imageAlt": "Sesion profesional de consultoria para arquitectura backend y planificacion de proyectos",
+  "aria": {
+    "bookConsultation": "Reservar una sesion de consultoria",
+    "hireUpwork": "Contratar a Mohammad Kofil en Upwork",
+    "exploreServices": "Explorar servicios disponibles"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Get In Touch",
+  "subtitle": "Have a project in mind? Let's discuss how we can work together",
+  "heading": "Let's build something {{highlight}} together",
+  "headingHighlight": "amazing",
+  "description": "Whether you have a question, a project idea, or just want to say hi, I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.",
+  "info": {
+    "email": {
+      "label": "Email",
+      "value": "mohammedkofil8@gmail.com"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+880 1729-795968"
+    },
+    "location": {
+      "label": "Location",
+      "value": "Dhaka, Bangladesh"
+    }
+  },
+  "social": {
+    "followMe": "Follow me on",
+    "platforms": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "form": {
+    "heading": "Send a Message",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Your name",
+      "email": "your.email@example.com",
+      "message": "Tell me about your project..."
+    },
+    "buttons": {
+      "send": "Send Message",
+      "sending": "Sending...",
+      "sent": "Message Sent!",
+      "tryAgain": "Try Again"
+    },
+    "alternative": {
+      "heading": "Or contact via",
+      "whatsapp": "WhatsApp",
+      "gmail": "Gmail"
+    },
+    "toast": {
+      "fillFields": "Please fill in all fields",
+      "invalidEmail": "Please enter a valid email address",
+      "success": "Message sent successfully! I'll get back to you soon.",
+      "error": "Failed to send message. Please try again or contact me directly.",
+      "nameAndMessageRequired": "Please enter your name and message first",
+      "openingWhatsApp": "Opening WhatsApp...",
+      "openingEmail": "Opening email client..."
+    },
+    "status": {
+      "idle": "",
+      "submitting": "Submitting form...",
+      "success": "Form submitted successfully!",
+      "error": "Error submitting form"
+    }
+  }
+}

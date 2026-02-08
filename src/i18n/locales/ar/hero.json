@@ -1,0 +1,34 @@
+{
+  "badge": "متوفر للعمل بنظام العمل الحر",
+  "greeting": "مرحبا، أنا",
+  "name": "محمد كفيل",
+  "typedText": "مهندس برمجيات | متخصص في الواجهة الخلفية | مؤسس DevSync BD",
+  "description": "مهندس برمجيات ذو خبرة متخصص في تقنيات الواجهة الخلفية. أصمم الأنظمة القابلة للتوسع، وأنشئ منصات SaaS/BaaS، وأنشر حلول ذات طراز سحابي محلي باستخدام Node.js و Python والبنية التحتية الحديثة.",
+  "buttons": {
+    "viewProjects": "عرض المشاريع",
+    "contactMe": "تواصل معي"
+  },
+  "stats": {
+    "experience": {
+      "value": "3+",
+      "label": "سنوات الخبرة"
+    },
+    "projects": {
+      "value": "100+",
+      "label": "مشاريع مكتملة"
+    },
+    "clients": {
+      "value": "150+",
+      "label": "عملاء سعيدون"
+    }
+  },
+  "floatingBadges": {
+    "systemOnline": "النظام متصل",
+    "typescript": "TypeScript"
+  },
+  "scrollIndicator": "مرر لاستكشاف المزيد",
+  "aria": {
+    "viewProjects": "عرض مشاريع محفظتي",
+    "contactMe": "تواصل مع محمد كفيل"
+  }
+}

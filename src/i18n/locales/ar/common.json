@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "من أنا",
+    "skills": "المهارات",
+    "projects": "المشاريع",
+    "services": "الخدمات",
+    "consultation": "استشارة",
+    "experience": "الخبرة",
+    "contact": "التواصل"
+  },
+  "theme": {
+    "toggle": "تبديل المظهر",
+    "light": "فاتح",
+    "dark": "داكن",
+    "system": "النظام"
+  },
+  "language": {
+    "toggle": "تغيير اللغة",
+    "current": "العربية"
+  },
+  "buttons": {
+    "viewMore": "عرض المزيد",
+    "learnMore": "اعرف المزيد",
+    "getStarted": "ابدأ الآن",
+    "viewProjects": "عرض المشاريع",
+    "contactMe": "تواصل معي"
+  },
+  "footer": {
+    "brand": "محمد كوفيل",
+    "subtitle": "مهندس برمجيات | متخصص في الواجهة الخلفية",
+    "description": "مهندس برمجيات متخصص في تقنيات الواجهة الخلفية. أبني الأنظمة القابلة للتوسع، وأنشئ منصات SaaS/BaaS، وأنشر حلول ذات طراز سحابي محلي باستخدام Node.js و Python و AWS.",
+    "quickLinks": "روابط سريعة",
+    "getInTouch": "تواصل معنا",
+    "email": "البريد الإلكتروني",
+    "location": "الموقع",
+    "company": "الشركة",
+    "locationValue": "دكا، بنغلاديش",
+    "companyValue": "DevSync BD",
+    "copyright": "© {{year}} محمد كوفيل. جميع الحقوق محفوظة.",
+    "madeWith": "تم التطوير بواسطة"
+  },
+  "aria": {
+    "openMenu": "فتح قائمة التنقل",
+    "closeMenu": "إغلاق قائمة التنقل"
+  }
+}

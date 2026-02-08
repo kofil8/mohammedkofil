@@ -1,0 +1,17 @@
+{
+  "title": "Technical Skills",
+  "subtitle": "A comprehensive stack covering backend, cloud infrastructure, and modern development practices",
+  "categories": {
+    "backend": "Backend Frameworks",
+    "cloud": "Cloud & Infrastructure",
+    "database": "Database & ORM",
+    "system": "System Design & Architecture",
+    "devops": "DevOps & Monitoring",
+    "fullstack": "Full-Stack & Platforms"
+  },
+  "levels": {
+    "expert": "Expert",
+    "advanced": "Advanced",
+    "intermediate": "Intermediate"
+  }
+}

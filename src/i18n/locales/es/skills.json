@@ -1,0 +1,17 @@
+{
+  "title": "Habilidades tecnicas",
+  "subtitle": "Un stack integral que cubre backend, infraestructura cloud y practicas modernas de desarrollo",
+  "categories": {
+    "backend": "Frameworks backend",
+    "cloud": "Nube e infraestructura",
+    "database": "Base de datos y ORM",
+    "system": "Diseno de sistemas y arquitectura",
+    "devops": "DevOps y monitoreo",
+    "fullstack": "Full-stack y plataformas"
+  },
+  "levels": {
+    "expert": "Experto",
+    "advanced": "Avanzado",
+    "intermediate": "Intermedio"
+  }
+}

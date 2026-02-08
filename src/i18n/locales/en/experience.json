@@ -1,0 +1,30 @@
+{
+  "title": "My Journey",
+  "subtitle": "From writing my first API to architecting production systems at scale",
+  "items": {
+    "devSync": {
+      "title": "Founder & Lead Software Engineer",
+      "company": "DevSync BD",
+      "period": "2023 - Present",
+      "description": "Leading backend architecture for SaaS and BaaS platforms. Building scalable systems with Node.js, FastAPI, and AWS. Managing cloud infrastructure, CI/CD pipelines, and microservices deployments."
+    },
+    "techSolutions": {
+      "title": "Senior Software Engineer (Backend)",
+      "company": "Tech Solutions Ltd.",
+      "period": "2022 - 2023",
+      "description": "Architected microservices using Node.js and Python. Implemented Redis caching, PostgreSQL optimization, and Docker containerization. Reduced API response times by 60%."
+    },
+    "digitalInnovations": {
+      "title": "Software Engineer",
+      "company": "Digital Innovations Inc.",
+      "period": "2021 - 2022",
+      "description": "Built RESTful APIs with Express and Django. Implemented JWT authentication, AWS deployments, and database design. Developed real-time features using WebSockets and Redis."
+    },
+    "education": {
+      "title": "BSc in Computer Science",
+      "company": "University of Technology",
+      "period": "2017 - 2021",
+      "description": "Focus on Software Engineering, Database Systems, and Distributed Computing. Graduated with honors."
+    }
+  }
+}

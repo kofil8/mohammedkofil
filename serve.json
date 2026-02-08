@@ -1,0 +1,17 @@
+{
+  "public": "dist",
+  "cleanUrls": false,
+  "trailingSlash": true,
+  "rewrites": [
+    { "source": "/assets/*", "destination": "/assets/$1" },
+    { "source": "*.js", "destination": "/$0" },
+    { "source": "*.css", "destination": "/$0" },
+    { "source": "*.png", "destination": "/$0" },
+    { "source": "*.jpg", "destination": "/$0" },
+    { "source": "*.svg", "destination": "/$0" },
+    { "source": "*.gz", "destination": "/$0" },
+    { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
+    { "source": "/robots.txt", "destination": "/robots.txt" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

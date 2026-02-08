@@ -1,0 +1,72 @@
+{
+  "badge": "DevSync BD",
+  "title": "Servicios que ofrecemos",
+  "subtitle": "Transforma tus ideas en soluciones digitales poderosas con nuestro equipo experto",
+  "items": {
+    "saas": {
+      "title": "Desarrollo SaaS",
+      "description": "Desarrollo end-to-end de plataformas SaaS con multi-tenancy, gestion de suscripciones y arquitectura escalable.",
+      "features": [
+        "Arquitectura multi-tenant",
+        "Facturacion por suscripcion",
+        "Gestion de usuarios",
+        "Panel de analitica"
+      ]
+    },
+    "backend": {
+      "title": "Arquitectura backend",
+      "description": "Disenamos e implementamos sistemas backend robustos que manejan millones de solicitudes con rendimiento optimo.",
+      "features": [
+        "Microservicios",
+        "Diseno orientado a eventos",
+        "Balanceo de carga",
+        "Estrategias de cache"
+      ]
+    },
+    "api": {
+      "title": "Desarrollo de APIs",
+      "description": "APIs RESTful y GraphQL disenadas para rendimiento, seguridad y experiencia de desarrollador.",
+      "features": [
+        "REST y GraphQL",
+        "Documentacion de API",
+        "Limitacion de tasa",
+        "Control de versiones"
+      ]
+    },
+    "cloud": {
+      "title": "Despliegue en la nube",
+      "description": "Configuracion y gestion de infraestructura cloud en AWS, Azure o Google Cloud Platform.",
+      "features": [
+        "AWS/Azure/GCP",
+        "Docker y Kubernetes",
+        "Pipelines CI/CD",
+        "Auto-escalado"
+      ]
+    },
+    "business": {
+      "title": "Software empresarial a medida",
+      "description": "Soluciones de software personalizadas para optimizar operaciones y aumentar la productividad.",
+      "features": [
+        "Sistemas ERP",
+        "Soluciones CRM",
+        "Automatizacion de flujos",
+        "Herramientas de reportes"
+      ]
+    },
+    "mvp": {
+      "title": "Desarrollo MVP",
+      "description": "Lanza un MVP enfocado rapidamente con el conjunto correcto de funciones, arquitectura limpia y espacio para escalar.",
+      "features": [
+        "Definicion de alcance",
+        "Prototipado rapido",
+        "Solo funciones clave",
+        "Hoja de ruta de iteracion"
+      ]
+    }
+  },
+  "cta": {
+    "heading": "Listo para iniciar tu proyecto?",
+    "description": "Hablemos de como podemos ayudarte a construir algo extraordinario",
+    "button": "Trabaja con DevSync BD"
+  }
+}

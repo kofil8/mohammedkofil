@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "services": "Services",
+    "consultation": "Consultation",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "toggle": "Change language",
+    "current": "English"
+  },
+  "buttons": {
+    "viewMore": "View More",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me"
+  },
+  "footer": {
+    "brand": "Mohammad Kofil",
+    "subtitle": "Software Engineer | Backend Specialist",
+    "description": "Software Engineer specializing in backend technologies. Building scalable systems, SaaS/BaaS platforms, and cloud-native solutions with Node.js, Python, and AWS.",
+    "quickLinks": "Quick Links",
+    "getInTouch": "Get in Touch",
+    "email": "Email",
+    "location": "Location",
+    "company": "Company",
+    "locationValue": "Dhaka, Bangladesh",
+    "companyValue": "DevSync BD",
+    "copyright": "© {{year}} Mohammad Kofil. All rights reserved.",
+    "madeWith": "Developed by"
+  },
+  "aria": {
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu"
+  }
+}

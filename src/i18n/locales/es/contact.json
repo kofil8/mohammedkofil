@@ -1,0 +1,69 @@
+{
+  "title": "Ponte en contacto",
+  "subtitle": "Tienes un proyecto en mente? Hablemos de como podemos trabajar juntos",
+  "heading": "Construyamos algo {{highlight}} juntos",
+  "headingHighlight": "increible",
+  "description": "Ya sea que tengas una pregunta, una idea de proyecto o solo quieras saludar, siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tu vision.",
+  "info": {
+    "email": {
+      "label": "Correo",
+      "value": "mohammedkofil8@gmail.com"
+    },
+    "phone": {
+      "label": "Telefono",
+      "value": "+880 1729-795968"
+    },
+    "location": {
+      "label": "Ubicacion",
+      "value": "Dhaka, Bangladesh"
+    }
+  },
+  "social": {
+    "followMe": "Sigueme en",
+    "platforms": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "form": {
+    "heading": "Enviar un mensaje",
+    "labels": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje"
+    },
+    "placeholders": {
+      "name": "Tu nombre",
+      "email": "tu.correo@ejemplo.com",
+      "message": "Cuentame sobre tu proyecto..."
+    },
+    "buttons": {
+      "send": "Enviar mensaje",
+      "sending": "Enviando...",
+      "sent": "Mensaje enviado!",
+      "tryAgain": "Intentar de nuevo"
+    },
+    "alternative": {
+      "heading": "O contacta por",
+      "whatsapp": "WhatsApp",
+      "gmail": "Gmail"
+    },
+    "toast": {
+      "fillFields": "Por favor completa todos los campos",
+      "invalidEmail": "Por favor ingresa un correo valido",
+      "success": "Mensaje enviado con exito! Me pondre en contacto contigo pronto.",
+      "error": "No se pudo enviar el mensaje. Intenta de nuevo o contactame directamente.",
+      "nameAndMessageRequired": "Por favor ingresa primero tu nombre y mensaje",
+      "openingWhatsApp": "Abriendo WhatsApp...",
+      "openingEmail": "Abriendo cliente de correo..."
+    },
+    "status": {
+      "idle": "",
+      "submitting": "Enviando formulario...",
+      "success": "Formulario enviado con exito!",
+      "error": "Error al enviar el formulario"
+    }
+  }
+}

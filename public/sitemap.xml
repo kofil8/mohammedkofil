@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mohammedkofil.com/en/</loc>
+    <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mohammedkofil.com/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://mohammedkofil.com/es/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://mohammedkofil.com/bn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://mohammedkofil.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mohammedkofil.com/en/" />
+  </url>
+  <url>
+    <loc>https://mohammedkofil.com/es/</loc>
+    <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mohammedkofil.com/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://mohammedkofil.com/es/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://mohammedkofil.com/bn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://mohammedkofil.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mohammedkofil.com/en/" />
+  </url>
+  <url>
+    <loc>https://mohammedkofil.com/bn/</loc>
+    <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mohammedkofil.com/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://mohammedkofil.com/es/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://mohammedkofil.com/bn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://mohammedkofil.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mohammedkofil.com/en/" />
+  </url>
+  <url>
+    <loc>https://mohammedkofil.com/ar/</loc>
+    <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mohammedkofil.com/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://mohammedkofil.com/es/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://mohammedkofil.com/bn/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://mohammedkofil.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mohammedkofil.com/en/" />
+  </url>
+</urlset>

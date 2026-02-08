@@ -1,0 +1,30 @@
+{
+  "title": "বিশেষ প্রকল্প",
+  "subtitle": "API, মাইক্রোসার্ভিস এবং ক্লাউড অবকাঠামোতে দক্ষতা প্রদর্শনকারী ব্যাকএন্ড-কেন্দ্রিক প্রকল্প",
+  "items": {
+    "cloudStorage": {
+      "title": "Cloud Storage Platform",
+      "description": "রিয়েল-টাইম সিঙ্ক এবং শেয়ারিং সহ সম্পূর্ণ বৈশিষ্ট্যযুক্ত ক্লাউড স্টোরেজ। Node.js/Express দিয়ে ব্যাকএন্ড তৈরি, মেটাডেটার জন্য PostgreSQL এবং ফাইল স্টোরেজের জন্য AWS S3। Dockerized স্থাপনা।"
+    },
+    "taskManager": {
+      "title": "Enterprise Task Manager API",
+      "description": "FastAPI দিয়ে উচ্চ-কর্ম সম্পাদন টাস্ক ম্যানেজমেন্ট ব্যাকএন্ড। বৈশিষ্ট্যগুলির মধ্যে রয়েছে RBAC, WebSocket বিজ্ঞপ্তি, Redis ক্যাশিং এবং Celery দিয়ে async টাস্ক প্রসেসিং।"
+    },
+    "uptime": {
+      "title": "Uptime Monitoring Service",
+      "description": "Node.js মাইক্রোসার্ভিস দিয়ে তৈরি বিতরণকৃত মনিটরিং সিস্টেম। মেট্রিক্সের জন্য MongoDB, জব কিউর জন্য Redis এবং রিয়েল-টাইম সতর্কতার জন্য WebSockets ব্যবহার করে। AWS ECS এ স্থাপিত।"
+    },
+    "restaurant": {
+      "title": "AI-Powered Restaurant BaaS",
+      "description": "রেস্তোরাঁ ব্যবস্থাপনার জন্য Backend-as-a-Service প্ল্যাটফর্ম। AI চ্যাটবট ইন্টিগ্রেশন, Stripe পেমেন্ট এবং মাল্টি-টেনান্ট আর্কিটেকচার সহ Django REST API।"
+    }
+  },
+  "buttons": {
+    "code": "কোড",
+    "liveDemo": "লাইভ ডেমো",
+    "viewMoreGithub": "GitHub এ আরও দেখুন"
+  },
+  "aria": {
+    "viewGithub": "GitHub এ আরও প্রকল্প দেখুন"
+  }
+}

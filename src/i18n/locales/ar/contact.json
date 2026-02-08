@@ -1,0 +1,69 @@
+{
+  "title": "تواصل معي",
+  "subtitle": "هل لديك مشروع في الذهن؟ دعنا نناقش كيف يمكننا العمل معاً",
+  "heading": "دعنا نبني شيئاً {{highlight}} معاً",
+  "headingHighlight": "رائعاً",
+  "description": "سواء كان لديك سؤال أو فكرة مشروع أو تريد فقط أن تقول مرحباً، أنا دائماً منفتح لمناقشة المشاريع الجديدة أو الأفكار الإبداعية أو الفرص ليكون جزءاً من رؤيتك.",
+  "info": {
+    "email": {
+      "label": "البريد الإلكتروني",
+      "value": "mohammedkofil8@gmail.com"
+    },
+    "phone": {
+      "label": "رقم الهاتف",
+      "value": "+880 1729-795968"
+    },
+    "location": {
+      "label": "الموقع",
+      "value": "دكا، بنغلاديش"
+    }
+  },
+  "social": {
+    "followMe": "تابعني على",
+    "platforms": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "form": {
+    "heading": "أرسل رسالة",
+    "labels": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "message": "الرسالة"
+    },
+    "placeholders": {
+      "name": "اسمك",
+      "email": "your.email@example.com",
+      "message": "أخبرني عن مشروعك..."
+    },
+    "buttons": {
+      "send": "أرسل الرسالة",
+      "sending": "جاري الإرسال...",
+      "sent": "تم إرسال الرسالة!",
+      "tryAgain": "حاول مرة أخرى"
+    },
+    "alternative": {
+      "heading": "أو تواصل عبر",
+      "whatsapp": "WhatsApp",
+      "gmail": "Gmail"
+    },
+    "toast": {
+      "fillFields": "يرجى ملء جميع الحقول",
+      "invalidEmail": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+      "success": "تم إرسال الرسالة بنجاح! سأعود إليك قريباً.",
+      "error": "فشل في إرسال الرسالة. يرجى المحاولة مرة أخرى أو تواصل معي مباشرة.",
+      "nameAndMessageRequired": "يرجى إدخال اسمك ورسالتك أولاً",
+      "openingWhatsApp": "جاري فتح WhatsApp...",
+      "openingEmail": "جاري فتح عميل البريد الإلكتروني..."
+    },
+    "status": {
+      "idle": "",
+      "submitting": "جاري التحقق من النموذج...",
+      "success": "تم التحقق من النموذج بنجاح!",
+      "error": "خطأ في التحقق من النموذج"
+    }
+  }
+}

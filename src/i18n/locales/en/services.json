@@ -1,0 +1,72 @@
+{
+  "badge": "DevSync BD",
+  "title": "Services We Offer",
+  "subtitle": "Transform your ideas into powerful digital solutions with our expert team",
+  "items": {
+    "saas": {
+      "title": "SaaS Development",
+      "description": "End-to-end SaaS platform development with multi-tenancy, subscription management, and scalable architecture.",
+      "features": [
+        "Multi-tenant Architecture",
+        "Subscription Billing",
+        "User Management",
+        "Analytics Dashboard"
+      ]
+    },
+    "backend": {
+      "title": "Backend Architecture",
+      "description": "Design and implement robust backend systems that handle millions of requests with optimal performance.",
+      "features": [
+        "Microservices",
+        "Event-Driven Design",
+        "Load Balancing",
+        "Caching Strategies"
+      ]
+    },
+    "api": {
+      "title": "API Development",
+      "description": "RESTful and GraphQL APIs designed for performance, security, and developer experience.",
+      "features": [
+        "REST & GraphQL",
+        "API Documentation",
+        "Rate Limiting",
+        "Version Control"
+      ]
+    },
+    "cloud": {
+      "title": "Cloud Deployment",
+      "description": "Seamless cloud infrastructure setup and management on AWS, Azure, or Google Cloud Platform.",
+      "features": [
+        "AWS/Azure/GCP",
+        "Docker & Kubernetes",
+        "CI/CD Pipelines",
+        "Auto Scaling"
+      ]
+    },
+    "business": {
+      "title": "Custom Business Software",
+      "description": "Tailored software solutions designed to streamline your business operations and boost productivity.",
+      "features": [
+        "ERP Systems",
+        "CRM Solutions",
+        "Workflow Automation",
+        "Reporting Tools"
+      ]
+    },
+    "mvp": {
+      "title": "MVP Development",
+      "description": "Launch a focused MVP quickly with the right feature set, clean architecture, and room to scale.",
+      "features": [
+        "Scope Definition",
+        "Rapid Prototyping",
+        "Core Features Only",
+        "Iteration Roadmap"
+      ]
+    }
+  },
+  "cta": {
+    "heading": "Ready to Start Your Project?",
+    "description": "Let's discuss how we can help you build something extraordinary",
+    "button": "Work with DevSync BD"
+  }
+}

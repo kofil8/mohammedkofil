@@ -1,0 +1,30 @@
+{
+  "title": "Offer Consultation",
+  "subtitle": "Get a focused, 1:1 strategy session to unlock clarity on your backend architecture and delivery plan.",
+  "description": "I architect and develop secure, scalable SaaS, FinTech, and HealthTech platforms from the ground up — designed for speed, reliability, and enterprise-grade security.",
+  "perks": {
+    "review": {
+      "title": "Deep Project Review",
+      "description": "We clarify goals, constraints, and the fastest path to a reliable backend."
+    },
+    "architecture": {
+      "title": "Architecture Guidance",
+      "description": "Practical recommendations on APIs, databases, and scalability tradeoffs."
+    },
+    "action": {
+      "title": "Action Plan",
+      "description": "You leave with a roadmap, timelines, and next steps you can execute."
+    }
+  },
+  "buttons": {
+    "bookConsultation": "Book a Consultation",
+    "hireUpwork": "Hire me on Upwork",
+    "exploreServices": "Explore Services"
+  },
+  "imageAlt": "Professional consultation session for backend architecture and project planning",
+  "aria": {
+    "bookConsultation": "Book a consultation session",
+    "hireUpwork": "Hire Mohammad Kofil on Upwork",
+    "exploreServices": "Explore available services"
+  }
+}

@@ -1,0 +1,28 @@
+# Allow all search engines
+User-agent: *
+Allow: /
+Crawl-delay: 0
+
+# Sitemap location
+Sitemap: https://mohammedkofil.com/sitemap.xml
+
+# Language-specific pages
+Allow: /en/
+Allow: /es/
+Allow: /bn/
+Allow: /ar/
+
+# Disallow temporary/private directories
+Disallow: /temp/
+Disallow: /private/
+Disallow: *.json$
+
+# Allow major search engines full access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

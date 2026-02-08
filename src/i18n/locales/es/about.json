@@ -1,0 +1,33 @@
+{
+  "title": "Sobre mi",
+  "subtitle": "Apasionado por construir la infraestructura invisible que impulsa el mundo digital",
+  "heading": "Ingeniero de software | Especialista backend",
+  "paragraphs": {
+    "intro": "Soy un ingeniero de software con profunda experiencia en tecnologias backend y arquitectura de sistemas. Con mas de 3 anos de experiencia practica construyendo aplicaciones de nivel produccion, me especializo en Node.js, Python (FastAPI/Django) y soluciones cloud-native en AWS.",
+    "experience": "Desde el diseno de APIs RESTful y microservicios hasta el despliegue de aplicaciones contenerizadas con Docker, doy vida a las ideas mediante codigo limpio y escalable. He construido plataformas SaaS, soluciones BaaS y sistemas empresariales que manejan millones de solicitudes.",
+    "company": "Como fundador de {{company}}, lidero un equipo que entrega soluciones full-stack con un enfoque backend-first. Ya sea arquitectar bases de datos, implementar estrategias de cache con Redis o configurar pipelines CI/CD, me aseguro de que cada sistema este construido para escalar."
+  },
+  "companyName": "DevSync BD",
+  "interests": {
+    "backend": {
+      "title": "Ingenieria backend",
+      "description": "Node.js, FastAPI, Django, arquitecturas Express"
+    },
+    "cloud": {
+      "title": "Nube y DevOps",
+      "description": "AWS, Docker, CI/CD, infraestructura como codigo"
+    },
+    "saas": {
+      "title": "SaaS y BaaS",
+      "description": "Plataformas multi-tenant y servicios backend"
+    },
+    "design": {
+      "title": "Diseno de sistemas",
+      "description": "Bases de datos escalables, caching, microservicios"
+    }
+  },
+  "stats": {
+    "experience": "Anos exp."
+  },
+  "imageAlt": "Mohammad Kofil - Ingeniero backend y fundador de DevSync BD"
+}

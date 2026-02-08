@@ -1,0 +1,30 @@
+{
+  "title": "Proyectos destacados",
+  "subtitle": "Proyectos centrados en backend que demuestran experiencia en APIs, microservicios e infraestructura cloud",
+  "items": {
+    "cloudStorage": {
+      "title": "Cloud Storage Platform",
+      "description": "Almacenamiento en la nube con carga por partes, sincronizacion en tiempo real y comparticion. Backend con Node.js/Express, PostgreSQL para metadatos y AWS S3 para almacenamiento. Despliegue con Docker."
+    },
+    "taskManager": {
+      "title": "Enterprise Task Manager API",
+      "description": "Backend de gestion de tareas de alto rendimiento con FastAPI. Incluye RBAC, notificaciones WebSocket, cache Redis y procesamiento asincrono con Celery."
+    },
+    "uptime": {
+      "title": "Uptime Monitoring Service",
+      "description": "Sistema de monitoreo distribuido con microservicios Node.js. Usa MongoDB para metricas, Redis para colas de trabajo y WebSockets para alertas en tiempo real. Desplegado en AWS ECS."
+    },
+    "restaurant": {
+      "title": "AI-Powered Restaurant BaaS",
+      "description": "Plataforma Backend-as-a-Service para gestion de restaurantes. Django REST API con integracion de chatbot IA, pagos Stripe y arquitectura multi-tenant."
+    }
+  },
+  "buttons": {
+    "code": "Codigo",
+    "liveDemo": "Demo en vivo",
+    "viewMoreGithub": "Ver mas en GitHub"
+  },
+  "aria": {
+    "viewGithub": "Ver mas proyectos en GitHub"
+  }
+}

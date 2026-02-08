@@ -1,0 +1,34 @@
+{
+  "badge": "Disponible para trabajo freelance",
+  "greeting": "Hola, soy",
+  "name": "Mohammad Kofil",
+  "typedText": "Ingeniero de software | Especialista backend | Fundador de DevSync BD",
+  "description": "Ingeniero de software con experiencia especializado en tecnologias backend. Arquitecto sistemas escalables, construyo plataformas SaaS/BaaS y despliego soluciones cloud-native con Node.js, Python y una infraestructura moderna.",
+  "buttons": {
+    "viewProjects": "Ver proyectos",
+    "contactMe": "Contactarme"
+  },
+  "stats": {
+    "experience": {
+      "value": "3+",
+      "label": "Anos de experiencia"
+    },
+    "projects": {
+      "value": "100+",
+      "label": "Proyectos completados"
+    },
+    "clients": {
+      "value": "150+",
+      "label": "Clientes satisfechos"
+    }
+  },
+  "floatingBadges": {
+    "systemOnline": "Sistema en linea",
+    "typescript": "TypeScript"
+  },
+  "scrollIndicator": "Desplazate para explorar",
+  "aria": {
+    "viewProjects": "Ver mis proyectos del portafolio",
+    "contactMe": "Contactar a Mohammad Kofil"
+  }
+}
