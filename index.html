@@ -3,6 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="image" href="/hero-code.jpg" fetchpriority="high" />
 
     <!-- Primary Meta Tags -->
     <title>
@@ -21,8 +28,19 @@
       content="Backend Engineer, Node.js Developer, Python Developer, FastAPI, Django, Microservices, Cloud Architecture, SaaS Development, BaaS Platform, DevOps, PostgreSQL, MongoDB, Redis, Docker, Kubernetes"
     />
     <meta name="author" content="Mohammad Kofil" />
-    <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://mohammedkofil.com/" />
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+    <meta
+      name="googlebot"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+    <meta
+      name="bingbot"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+    <link rel="canonical" href="https://kofil.online/" />
 
     <!-- Theme Color -->
     <meta name="theme-color" content="#000000" />
@@ -39,7 +57,7 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://mohammedkofil.com/" />
+    <meta property="og:url" content="https://kofil.online/" />
     <meta
       property="og:title"
       content="Mohammad Kofil - Backend Engineer | Node.js, Python, FastAPI Expert"
@@ -48,16 +66,19 @@
       property="og:description"
       content="Backend Engineer specializing in Node.js, Python, FastAPI, Django, and cloud-native solutions. Building scalable SaaS/BaaS platforms with 3+ years of experience."
     />
-    <meta
-      property="og:image"
-      content="https://mohammedkofil.com/og-image.jpg"
-    />
+    <meta property="og:image" content="https://kofil.online/hero-code.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:alt" content="Mohammad Kofil portfolio preview" />
     <meta property="og:site_name" content="Mohammad Kofil Portfolio" />
     <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="es_ES" />
+    <meta property="og:locale:alternate" content="bn_BD" />
+    <meta property="og:locale:alternate" content="ar_AE" />
+    <meta property="og:locale:alternate" content="zh_CN" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:url" content="https://mohammedkofil.com/" />
+    <meta name="twitter:url" content="https://kofil.online/" />
     <meta
       name="twitter:title"
       content="Mohammad Kofil - Backend Engineer | Node.js, Python, FastAPI Expert"
@@ -66,19 +87,26 @@
       name="twitter:description"
       content="Backend Engineer specializing in Node.js, Python, FastAPI, Django, and cloud-native solutions. Building scalable SaaS/BaaS platforms."
     />
-    <meta
-      name="twitter:image"
-      content="https://mohammedkofil.com/twitter-image.jpg"
-    />
+    <meta name="twitter:image" content="https://kofil.online/hero-code.jpg" />
+    <meta name="twitter:image:alt" content="Mohammad Kofil portfolio preview" />
 
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
     <!-- Manifest -->
     <link rel="manifest" href="/manifest.json" />
+    <link rel="alternate" hreflang="en" href="https://kofil.online/en/" />
+    <link rel="alternate" hreflang="es" href="https://kofil.online/es/" />
+    <link rel="alternate" hreflang="bn" href="https://kofil.online/bn/" />
+    <link rel="alternate" hreflang="ar" href="https://kofil.online/ar/" />
+    <link rel="alternate" hreflang="zh" href="https://kofil.online/zh/" />
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://kofil.online/en/"
+    />
 
     <!-- Structured Data - Person Schema -->
     <script type="application/ld+json">
@@ -87,7 +115,7 @@
         "@type": "Person",
         "name": "Mohammad Kofil",
         "jobTitle": "Backend Engineer",
-        "url": "https://mohammedkofil.com",
+        "url": "https://kofil.online",
         "sameAs": [
           "https://github.com/mohammadkofil",
           "https://linkedin.com/in/mohammadkofil"
@@ -123,7 +151,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Mohammad Kofil - Backend Engineer Portfolio",
-        "url": "https://mohammedkofil.com",
+        "url": "https://kofil.online",
         "description": "Professional portfolio showcasing backend engineering expertise, projects, and services",
         "author": {
           "@type": "Person",
@@ -131,7 +159,7 @@
         },
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://mohammedkofil.com/?s={search_term_string}",
+          "target": "https://kofil.online/?s={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       }
@@ -143,8 +171,8 @@
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "DevSync BD",
-        "url": "https://mohammedkofil.com",
-        "logo": "https://mohammedkofil.com/logo.png",
+        "url": "https://kofil.online",
+        "logo": "https://kofil.online/apple-touch-icon.png",
         "founder": {
           "@type": "Person",
           "name": "Mohammad Kofil"

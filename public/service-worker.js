@@ -10,7 +10,7 @@ const CRITICAL_ASSETS = [
   "/es/",
   "/bn/",
   "/ar/",
-  "/200.html",
+  "/zh/",
   "/index.html",
   "/manifest.json",
 ];
@@ -129,7 +129,7 @@ self.addEventListener("fetch", (event) => {
           console.log("[SW] Serving from cache (page):", url.pathname);
           return caches
             .match(event.request)
-            .then((response) => response || caches.match("/200.html"));
+            .then((response) => response || caches.match("/index.html"));
         }),
     );
     return;

@@ -28,7 +28,7 @@ export function Footer({ className }: FooterProps) {
     },
     {
       name: "Email",
-      href: "mailto:mohammadkofil@gmail.com",
+      href: "mailto:support@kofil.online",
       icon: Mail,
     },
   ];
@@ -151,10 +151,10 @@ export function Footer({ className }: FooterProps) {
               <li>
                 <span className="block text-sm">{t("footer.email")}</span>
                 <a
-                  href="mailto:mohammadkofil@gmail.com"
+                  href="mailto:support@kofil.online"
                   className="text-foreground hover:text-primary transition-colors"
                 >
-                  mohammadkofil@gmail.com
+                  support@kofil.online
                 </a>
               </li>
               <li>

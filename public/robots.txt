@@ -1,21 +1,23 @@
 # Allow all search engines
 User-agent: *
 Allow: /
-Crawl-delay: 0
+
+# Preferred host
+Host: https://kofil.online
 
 # Sitemap location
-Sitemap: https://mohammedkofil.com/sitemap.xml
+Sitemap: https://kofil.online/sitemap.xml
 
 # Language-specific pages
 Allow: /en/
 Allow: /es/
 Allow: /bn/
 Allow: /ar/
+Allow: /zh/
 
 # Disallow temporary/private directories
 Disallow: /temp/
 Disallow: /private/
-Disallow: *.json$
 
 # Allow major search engines full access
 User-agent: Googlebot

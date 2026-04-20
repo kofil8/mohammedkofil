@@ -4,6 +4,11 @@
   "trailingSlash": true,
   "rewrites": [
     { "source": "/assets/*", "destination": "/assets/$1" },
+    { "source": "/en/*", "destination": "/index.html" },
+    { "source": "/es/*", "destination": "/index.html" },
+    { "source": "/bn/*", "destination": "/index.html" },
+    { "source": "/ar/*", "destination": "/index.html" },
+    { "source": "/zh/*", "destination": "/index.html" },
     { "source": "*.js", "destination": "/$0" },
     { "source": "*.css", "destination": "/$0" },
     { "source": "*.png", "destination": "/$0" },

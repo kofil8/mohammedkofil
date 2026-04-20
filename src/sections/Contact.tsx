@@ -19,6 +19,10 @@ import { useTranslation } from "react-i18next";
 
 export function Contact() {
   const { t } = useTranslation("contact");
+  const highlightToken = "__HIGHLIGHT__";
+  const headingTemplate = t("heading", { highlight: highlightToken });
+  const [headingPrefix = "", headingSuffix = ""] =
+    headingTemplate.split(highlightToken);
 
   const contactInfo = [
     {
@@ -88,9 +92,9 @@ export function Contact() {
         >
           <div>
             <h3 className="text-2xl font-heading font-bold mb-4">
-              {t("heading", { highlight: "" })}
+              {headingPrefix}
               <span className="text-gradient">{t("headingHighlight")}</span>
-              {" together"}
+              {headingSuffix}
             </h3>
             <p className="text-muted-foreground leading-relaxed">
               {t("description")}
@@ -109,7 +113,7 @@ export function Contact() {
                 transition={{ duration: 0.4, delay: 0.1 + index * 0.1 }}
                 whileHover={{ scale: 1.02, x: 4 }}
                 className={cn(
-                  "flex items-center gap-4 p-4 rounded-xl",
+                  "group flex items-center gap-4 p-4 rounded-xl",
                   "bg-card/50 border border-border/50",
                   "hover:border-primary/30 hover:bg-card transition-all duration-300",
                 )}

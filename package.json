@@ -66,7 +66,6 @@
     "tailwind-merge": "^3.4.0",
     "vaul": "^1.1.2",
     "vite-plugin-compression": "^0.5.1",
-    "vite-plugin-sitemap": "^0.8.2",
     "zod": "^4.3.5"
   },
   "devDependencies": {

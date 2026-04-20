@@ -58,14 +58,14 @@ export const NAVIGATION_SECTIONS: NavigationSection[] = [
 export const SITE_CONFIG = {
   name: "Mohammad Kofil",
   shortName: "MK",
-  domain: "https://mohammedkofil.com",
+  domain: "https://kofil.online",
   email: "mohammedkofil8@gmail.com",
-  github: "https://github.com/kofil",
+  github: "https://github.com/mohammadkofil",
   linkedin: "https://linkedin.com/in/mohammadkofil",
   twitter: "https://twitter.com/mohammedkofil",
-  jobTitle: "Full Stack Developer",
+  jobTitle: "Backend Engineer",
   company: "DevSync BD",
-  ogImage: "https://mohammedkofil.com/og-image.png",
+  ogImage: "https://kofil.online/hero-code.jpg",
   ogImageWidth: "1200",
   ogImageHeight: "630",
 } as const;

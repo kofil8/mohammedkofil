@@ -3,7 +3,6 @@ import { inspectAttr } from "kimi-plugin-inspect-react";
 import path from "path";
 import { defineConfig } from "vite";
 import compression from "vite-plugin-compression";
-import sitemap from "vite-plugin-sitemap";
 
 // https://vite.dev/config/
 export default defineConfig({
@@ -14,11 +13,6 @@ export default defineConfig({
     compression({
       algorithm: "gzip",
       ext: ".gz",
-    }),
-    sitemap({
-      hostname: "https://mohammedkofil.com",
-      dynamicRoutes: ["/en/", "/es/", "/bn/", "/ar/"],
-      readable: true,
     }),
   ],
   resolve: {
